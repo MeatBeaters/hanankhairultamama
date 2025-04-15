@@ -1,7 +1,7 @@
 ---
 title: Tentang Saya
 layout: about
-permalink: /hanankhairultamama/tentang-saya
+permalink: /tentang-saya
 ---
 Mari berkenalan, saya Hanan Khairul Tamama, seonggok mahasiswa yang tengah bingung dengan trajektori karir untuk masa mendatang. Meski kini tengah belajar sejarah di Universitas Diponegoro, rasa-rasanya, belajar hanya jadi proyek sampingan, sisanya, dihabiskan dengan banyolan konyol, yang menjadi kismis di malam bolong.
 
