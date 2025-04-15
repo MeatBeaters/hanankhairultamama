@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% include header.html %}
+<div class="about-container">
+    <div class="about">
+        <div class="about-title">{{ page.title }}</div>
+        <img class="author" src="{{ '/assets/images/author.jpg' | relative_url }}">
+        <div class="about-content">{{ content }}</div>
+    </div>
+</div>
+{% include footer.html %}

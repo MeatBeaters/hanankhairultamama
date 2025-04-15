@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{% include header.html %}
+<div class="post-container-grand-parent">
+    <div class="post-container-parent">
+        <div class="post-container">
+            <div class="post-container-breadcrumb">
+                <a href="/">Rampaian Kisah</a>
+                <a href=""><i class="bi bi-dot"></i></a>
+                <a href="{{ page.category | relative_url }}">{{ page.category }}</a>
+                <a href=""><i class="bi bi-dot"></i></a>
+                <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+            </div>
+            <div class="post-container-category"><a class="post-category" href="/{{ page.category }}/">{{ page.category }}</a></div>
+            <div class="post-container-title">{{ page.title }}</div>
+            <div class="post-container-dateandreadtime">
+                <a class="post-date">
+                    {{ page.date | date_to_long_string }}
+                </a>
+                <a class="post-and">
+                    <i class="bi bi-dot"></i>
+                </a>
+                <a class="post-readtime">
+                    {% assign words = page.content | number_of_words %}
+                    {% if words < 360 %}
+                      1 Min
+                    {% else %}
+                      {{ words | divided_by:180 }} Mins
+                    {% endif %}
+                </a>
+            </div>
+            <div class="post-container-image"><img class=indexpost-image src="{{ page.image }}"></div>
+            <div class="post-content"> {{ content }} </div>
+        </div>
+    </div>
+</div>
+{% include footer.html %}

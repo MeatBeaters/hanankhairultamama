@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="id">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome,firefox">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="icon" href="{{ '/favicon.ico' | relative_url }}">
+        <meta name="author" content="Hanan Khairul Tamama">
+        <meta name="language" content="id">
+        <meta name="description" content="{{ page.description }}">
+        <meta name="og:locale" content="id">
+        <meta name="og:site_name" content="hanankhairultamama.github.io">
+        <meta name="og:title" content="{{ page.title }} | Hanan Khairul Tamama">
+        <meta name="robots" content="index, follow">
+        <link rel="canonical" href="{{ page.url | absolute_url }}">
+        <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+        <title>{{ page.title | default: site.title }}</title>
+    </head>
+    <body>
+        {{ content }}
+        <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+    </body>
+</html>
