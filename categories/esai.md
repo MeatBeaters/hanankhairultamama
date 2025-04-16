@@ -1,5 +1,5 @@
 ---
 layout: category
 category: Esai
-permalink: /esai
+permalink: /esai/
 ---
