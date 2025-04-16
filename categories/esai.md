@@ -1,5 +1,6 @@
 ---
+title: Esai
 layout: category
-category: Esai
+category: esai
 permalink: /esai/
 ---
