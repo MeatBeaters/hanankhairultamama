@@ -1,7 +1,7 @@
 ---
 title: "Szomorú Vasárnap: Jazz dan Kepedihan"
 image: /assets/images/jazz.jpg
-category: esais
+category: esai
 ---
 Musisi jazz, meski kerap mengekspresikan lagunya dalam nada-nada mayor dan dikonstruksikan dengan progresi menyenangkan. Namun, terkadang sebuah duka bersemayam pada musik yang telah mereka cipta. Salah satu lembaran lagu jazz terkenal, dan memiliki sendu begitu mendalam, adalah “<i>Gloomy Sunday</i>“.
 
