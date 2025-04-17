@@ -1,14 +1,43 @@
 ---
 layout: default
 ---
-
-<div class="category-name">{{ page.category }}</div>
-<ul>
-    {% for post in site.posts %}
-        {% if post.categories contains page.category %}
-            <li>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-            </li>
-        {% endif %}
-    {% endfor %}
-</ul>
+{% include header.html %}
+<div class="category-container-whole">
+    <div class="category-container-breadcrumb">
+        <a href="{{ '/' | relative_url }}">Rampaian Kisah</a>
+        <a href=""><i class="bi bi-dot"></i></a>
+        <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+    </div>
+    <div class="category-container-name">
+        <div class="category-name">{{ page.category_title }}</div>
+    </div>
+    <div class="category-container-item">
+            <ul>
+            {% for post in site.posts %}
+                {% if post.categories contains page.category %}
+                <li>
+                    <div class="category-container-title"><a class="category-title" href="{{ post.url | relative_url }}">{{ post.title }}</div>
+                    <div class="category-container-dateandreadtime">
+                        <a class="category-date" href="{{ post.url | relative_url }}">
+                            {{ post.date | date_to_long_string }}
+                        </a>
+                        <a class="category-and" href="{{ post.url | relative_url }}">
+                            <i class="bi bi-dot"></i>
+                        </a>
+                        <a class="category-readtime" href="{{ post.url | relative_url }}">
+                            {% assign words = page.content | number_of_words %}
+                            {% if words < 360 %}
+                              1 Min
+                            {% else %}
+                              {{ words | divided_by:180 }} Mins
+                            {% endif %}
+                        </a>
+                    </div>
+                </li>
+                {% endif %}
+            {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
+{% include footer.html %}
