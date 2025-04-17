@@ -8,11 +8,7 @@ layout: default
     <div class="indexpage-container-indexpost">
         {% if forloop.index == 1 %}
             <div class="indexpost-container-recent">
-<<<<<<< HEAD
-                <div class="indexpost-container-category"><a class="indexpost-category" href="{{ category.url | relative_url }}"> {{ post.category }} </a></div>
-=======
                 <div class="indexpost-container-category"><a class="indexpost-category" href="{{ post.category | relative_url }}"> {{ post.category_title }} </a></div>
->>>>>>> 7dfe516d27a529ec8284a9263598c36b2b8221b0
                 <div class="indexpost-container-image"><a href="{{ post.url | relative_url }}"><img class=indexpost-image src="{{ post.image | relative_url }}"></a></div>
                 <div class="indexpost-container-title"><a class="indexpost-title" href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
                 <div class="indexpost-container-dateandreadtime">
