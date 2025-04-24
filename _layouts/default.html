@@ -4,7 +4,7 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome,firefox">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="icon" href="hanankhairultamama/favicon.ico">
+        <meta name="icon" href="{{ '/favicon.ico | relative_url }}">
         <meta name="author" content="Hanan Khairul Tamama">
         <meta name="language" content="id">
         <meta name="description" content="{{ page.description }}">
@@ -14,6 +14,7 @@
         <meta name="robots" content="index, follow">
         <link rel="canonical" href="{{ page.url | absolute_url }}">
         <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+        <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
         <title>{{ page.title | default: site.title }}</title>
     </head>
     <body>
