@@ -134,7 +134,7 @@ h2 {
     align-self: center;
 }
 .post-container-breadcrumb {
-    display: flex;
+    display: inline-block;
     font-family: 'Roboto', Sans-Serif;
     font-size: 12.5px;
     line-height: 3;
@@ -249,7 +249,7 @@ h2 {
 }
 .category-container-breadcrumb {
     margin: 130px 0px 20px 0px;
-    display: flex;
+    display: inline-block;
     font-family: 'Roboto', Sans-Serif;
     font-size: 12.5px;
     line-height: 3;
