@@ -46,8 +46,8 @@ Sekali lagi, ini bukan ajakan untuk mengajakmu kembali. Tidak, tidak, tidak, ide
 
 Beberapa saat yang lalu, kala hatiku memutuskan untuk menekan dengan sengaja berbagai sosial media yang kau pajang. Aku, menemukan kebiruan yang masih mencekam, ia menyelimuti sekujur hatimu yang perlahan padam. Entah kenapa, seketika rasa bersalah menyeruak membakar kepala.
 
-Semoga hidupmu diberkahi, dan seorang pria yang sempurna untukmu, datang melambaikan tangannya. Mengajakmu ke tempat-tempat yang tak pernah kau kunjungi, menyimbolkan eksistensimu sebagai seorang dewi, merayakan semua hari yang kau anggap penting, dan menikah dengan adat Jawa kuna di antara ruang yang terbuat dari kayu jati.
+Sedikit harapku agar hidupmu diberkahi, dan seorang pria yang sempurna untukmu, datang melambaikan dan membenahi. Mengajakmu ke tempat-tempat yang tak pernah kau kunjungi, menyimbolkan eksistensimu sebagai seorang dewi, merayakan semua hari yang kau anggap sakralkan setiap satu rotasi bumi, dan menikah dengan adat Jawa kuna di antara ruang yang terbuat dari kayu jati.
 
-Apabila masih legam hatimu menghitam. Ketahuilah, meski tak lagi kita sejalan, memoar-memoar itu, mau tak mau akan terbawa malang melintang. Setidaknya kau sedikit paham, bahwa kau masih aku rayakan, rasanya tidak padan, bila hanya karena tak lagi kita bersama, hadirmu kuhapus sepenuhnya tanpa cela.
+Apabila masih legam hatimu menghitam. Ketahuilah, meski tak lagi kita sejalan, memoar-memoar itu, mau tak mau akan terbawa malang melintang. Setidaknya dengan begini, kau sedikit paham, bahwa kau masih aku rayakan, meski tentu dalam porsi yang tak besar. Rasanya tidak adil, bila hanya karena tak lagi kita bersama, hadirmu kuhapus sepenuhnya tanpa cela.
 
-Semua ini aku nyatakan, bukan sebagai pria yang tak mampu beranjak dari masa lalunya, tapi sebagai manusia, yang mengerti keutuhanmu sebagai manusia. Hormat yang tinggi untukmu, terima kasih sudah memberi pengajaran, meski kurikulum tak kau genggam, tapi telah penuh aku memaham.
+Semua ini aku nyatakan, bukan sebagai pria yang tak mampu beranjak dari masa lalunya, tapi sebagai manusia, yang mengerti keutuhanmu sebagai manusia. Hormat yang tinggi untukmu, terima kasih sudah memberi pengajaran, meski kurikulum tak kau genggam, tapi telah penuh aku memaham. Kelak jalanmu sentosa diberkati Tuhan.
