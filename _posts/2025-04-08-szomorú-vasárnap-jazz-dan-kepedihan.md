@@ -1,6 +1,7 @@
 ---
 title: "Szomorú Vasárnap: Jazz dan Kepedihan"
-image: /assets/images/jazz.jpg
+layout: post
+image: "{{ '/assets/images/jazz.jpg' | relative_url }}"
 category_title: Esai
 category: esai
 ---

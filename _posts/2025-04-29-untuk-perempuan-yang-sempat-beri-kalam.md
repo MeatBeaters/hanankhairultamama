@@ -1,6 +1,7 @@
 ---
 title: Untuk Perempuan yang Sempat Beri Kalam
-iamge: /assets/images/kursi-minimarket.jpg
+layout: post
+iamge: "{{ '/assets/images/kursi-minimarket.jpg' | relative_url }}"
 category_title: Cerpen
 category: cerpen
 ---
