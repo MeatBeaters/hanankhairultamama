@@ -32,11 +32,11 @@ Jarang pula bagi kita untuk pergi ke tempat-tempat dan menyulapnya menjadi mesra
 
 Salah satu perihal terakhir yang sempat kau utarakan sebelum berpisah, adalah bahwa hari kelahiranmu tak pernah dimewahkan oleh orang-orang di rumah. Aku tak tahu pasti, tapi mungkin itulah yang membuatmu lebih kerap sendiri, sebab kau takut, bila berharap maka kau jatuh. Dan sayangnya, kecil dulu, kau dibiasakan untuk itu.
 
-Peristiwa yang dengan keras memukulmu, dan membuatmu terpaksa untuk memikulnya, adalah ketika salah satu sepupu tirimu dirayakan hari jadinya, kala ia menginjak 19 tahun usia, katamu sembari termanyun sipu. Sedangkan tanggalmu lahir ke dunia, ditinggalkan begitu saja.
+Peristiwa yang dengan keras memukulmu, dan membuatmu terpaksa untuk memikulnya, adalah ketika salah satu sepupu tirimu dirayakan hari jadinya. Kala ia menginjak 19 tahun usia, katamu sembari termanyun sipu. Selang beberapa hari, seharusnya giliranmu, tapi nyatanya, tanggalmu ditanggalkan begitu saja.
 
-Setelah ayah dan ibu berpisah, kau terlalu bingung untuk memilih siapa di antaranya. Pada akhirnya, nenek jadi sang penyelamat, di tengah kekacauan yang menimpamu dalam waktu sesaat. Meski telah menua, nenek selalu jadi suaka paling nyaman untukmu beristirahat.
+Setelah ayah dan ibu berpisah, kau terlalu bingung untuk memilih siapa di antaranya. Pada akhirnya, nenek jadi sang penyelamat, di tengah kekacauan yang menimpamu dalam waktu sesaat. Nenek memang sudah tua, tapi selalu jadi suaka paling nyaman untukmu beristirahat. Maka berterimakasihlah sedalam-dalamnya, dan syukuri setiap detik kehadirannya.
 
-Baru ketika kepala mulai bisa berlogika, kau menjelma seorang nomad, hidup berpindah dari rumah ke rumah. Aku lupa pastinya, tapi barangkali kau jadi bingung di mana tempat untuk pulang yang seharusnya. 
+Baru ketika kepala mulai bisa berlogika, kau menjelma seorang nomad, hidup berpindah dari rumah ke rumah. Aku lupa pastinya, tapi barangkali kau jadi bingung di mana tempat untukmu pulang yang seharusnya. Sebaiknya dahulu aku memasang badan, tapi aku terlalu bodoh, jadi lebih baik kau sumpah serapahi saja sampai puas hatimu berkobar.
 
 Seingatku saja, kata ibu kerap kali muncul dari gelembung pesanmu. Kau memang masih dekat dengannya, masih lekat pula bila kudengar dengan seksama. Aku tahu, bukan ayah atau ibu yang kau benci, tapi sekat di antaranya, yang tak bisa kau tembus meski telah beribu kali kau coba. Terlebih, kau paling suka untuk dimanja.
 
@@ -50,4 +50,4 @@ Sedikit harapku agar hidupmu diberkahi, dan seorang pria yang sempurna untukmu, 
 
 Apabila masih legam hatimu menghitam. Ketahuilah, meski tak lagi kita sejalan, memoar-memoar itu, mau tak mau akan terbawa malang melintang. Setidaknya dengan begini, kau sedikit paham, bahwa kau masih aku rayakan, meski tentu dalam porsi yang tak besar. Rasanya tidak adil, bila hanya karena tak lagi kita bersama, hadirmu kuhapus sepenuhnya tanpa cela.
 
-Semua ini aku nyatakan, bukan sebagai pria yang tak mampu beranjak dari masa lalunya, tapi sebagai manusia, yang mengerti keutuhanmu sebagai manusia. Hormat yang tinggi untukmu, terima kasih sudah memberi pengajaran, meski kurikulum tak kau genggam, tapi telah penuh aku memaham. Kelak jalanmu sentosa diberkati Tuhan.
+Semua ini aku nyatakan, bukan sebagai pria yang tak mampu beranjak dari masa lalunya, tapi sebagai manusia, yang mengerti keutuhanmu sebagai manusia. Hormat yang tinggi untukmu, terima kasih sudah memberi pengajaran, meski kurikulum tak kau genggam, tapi telah penuh aku memaham. Kelak jalanmu sentosa diberkati Tuhan. Terlalu banyak peristiwa yang bisa kurangkum dan kuceritakan, tapi biarlah, anggap ini sebagai rangkuman.
