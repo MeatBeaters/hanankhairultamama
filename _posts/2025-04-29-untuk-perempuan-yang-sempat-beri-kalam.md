@@ -1,7 +1,7 @@
 ---
 title: Untuk Perempuan yang Sempat Beri Kalam
 layout: post
-iamge: assets/images/kursi-minimarket.jpg
+image: assets/images/kursi-minimarket.jpg
 category_title: Cerpen
 category: cerpen
 ---
