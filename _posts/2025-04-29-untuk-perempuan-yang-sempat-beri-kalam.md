@@ -30,7 +30,7 @@ Jarang pula bagi kita untuk pergi ke tempat-tempat dan menyulapnya menjadi mesra
 
 ## Kau Ingin Dirayakan
 
-Salah satu perihal terakhir yang sempat kau utarakan sebelum berpisah, adalah bahwa hari kelahiranmu tak pernah dimewahkan oleh orang-orang di rumah. Mungkin, kau tak pernah merasa tergolong ke dalam keluarga. 
+Salah satu perihal terakhir yang sempat kau utarakan sebelum berpisah, adalah bahwa hari kelahiranmu tak pernah dimewahkan oleh orang-orang di rumah. Aku tak tahu pasti, tapi mungkin itulah yang membuatmu lebih kerap sendiri, sebab kau takut, bila berharap maka kau jatuh. Dan sayangnya, kecil dulu, kau dibiasakan untuk itu.
 
 Peristiwa yang dengan keras memukulmu, dan membuatmu terpaksa untuk memikulnya, adalah ketika salah satu sepupu tirimu dirayakan hari jadinya, kala ia menginjak 19 tahun usia, katamu sembari termanyun sipu. Sedangkan tanggalmu lahir ke dunia, ditinggalkan begitu saja.
 
