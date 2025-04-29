@@ -6,7 +6,7 @@ category: esai
 ---
 Musisi jazz, meski kerap mengekspresikan lagunya dalam nada-nada mayor dan dikonstruksikan dengan progresi menyenangkan. Namun, terkadang sebuah duka bersemayam pada musik yang telah mereka cipta. Salah satu lembaran lagu jazz terkenal, dan memiliki sendu begitu mendalam, adalah “<i>Gloomy Sunday</i>“.
 
-Interpretasi makna dari lirik lagu yang sempat dibawakan oleh Billie Holiday itu, sempat dirangkum begitu apik dalam <a href="https://genius.com/4680404?">genius.com</a>. Makna pada setiap baitnya, menyayat mereka yang mendengarkan dalam keheningan menghayat. Liriknya betul-betul membawa pendengar, dalam kelambu kebiruan, di sebuah minggu yang tak lagi benderang.
+Interpretasi makna dari lirik lagu yang sempat dibawakan oleh Bilie Holiday itu, sempat dirangkum begitu apik dalam <a href="https://genius.com/4680404?">genius.com</a>. Makna pada setiap baitnya, menyayat mereka yang mendengarkan dalam keheningan menghayat. Liriknya betul-betul membawa pendengar, dalam kelambu kebiruan, di sebuah minggu yang tak lagi benderang.
 
 <h2>Kisah Para Mayat di Sepanjang Jalan</h2>
 
