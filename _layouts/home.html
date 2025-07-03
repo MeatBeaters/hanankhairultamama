@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: seo
 ---
 {% include header.html %}
 <div class="indexpage">
@@ -30,6 +30,7 @@ layout: default
             </div>
         {% else %}
             <div class="indexpost-container-other">
+                <div class="indexpost-container-category"><a class="indexpost-category" href="{{ post.category | relative_url }}"> {{ post.category_title }} </a></div>
                 <div class="indexpost-container-title"><a class="indexpost-title" href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
                 <div class="indexpost-container-dateandreadtime">
                     <a class="indexpost-date" href="{{ post.url | relative_url }}">
