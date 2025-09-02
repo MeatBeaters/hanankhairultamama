@@ -5,6 +5,7 @@ image: assets/images/loireng.jpg
 category_title: Cerpen
 category: cerpen
 ---
+
 Setengah tiga dan aku masih terjaga. Pikiran tak perlu yang mengepul menjadi satu. Aku bahkan tidak tahu, perihal apa yang sebenarnya mengganggu. Benarkah sebab masa depan yang tak pasti? Laku di masa lalu yang disesali? Ketiadaan di dalam hati? Tuntutan yang menjerat demi esok dan nanti? Kebiasaan buruk yang muskil untuk diperangi? Atau memang aku sedang jatuh hati?
 
 “Sebatang lagi mungkin pikiranku akan mereda. Sumpah! Ini yang terakhir untuk hari ini!”
